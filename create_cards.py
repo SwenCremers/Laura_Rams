@@ -7,7 +7,7 @@ gridsize = 5
 stepping = 16
 save_path = './cards.html'
 input_file = './input.csv'
-center_figure = '<img src="C:\\Users\\Swen\\Desktop\\music-bingo-master\\music-bingo-master\\center-img-small.png"/>'
+center_figure = '<img src="https://github.com/SwenCremers/Laura_Rams/blob/main/Rams_logo.png"/>'
 
 input_words = []
 input_ids = []
